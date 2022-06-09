@@ -26,8 +26,8 @@
 
 ### :man_technologist: Sobre Mim :
 
-- Meu nome é Lucas, tenho 20 anos e moro em Curitiba.
-- Atualmente, estou cursando o 3° período de Ciência da Computação na PUCPR.
+- Meu nome é Lucas e eu moro em Curitiba.
+- Atualmente, estou cursando Ciência da Computação na PUCPR.
 - Em busca de aprimorar meu conhecimento em relação à programação e ao desenvolvimento.
 
 ---
