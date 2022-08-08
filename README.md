@@ -46,7 +46,9 @@
 
 ### :fire: Estatísticas :
 
-<div align="center" float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucskj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucskj&theme=radical&layout=compact"/>
+<div class="flex-container" align="center">
+  <img 
+  width=30%
+  src="https://github-readme-stats.vercel.app/api?username=lucskj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucskj&theme=radical&layout=compact"/>
 </div>
