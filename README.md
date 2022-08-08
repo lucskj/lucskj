@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/lucskj/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -12,9 +12,9 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </div>
-  
+
   <img src="https://komarev.com/ghpvc/?username=lucskj&style=flat-square&color=blue" alt=""/>
-  
+
   <h1>
     Olá!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
@@ -45,8 +45,8 @@
 ---
 
 ### :fire: Estatísticas :
-  
-<div align="center">
+
+<div align="center" float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucskj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucskj&theme=radical&layout=compact"/>
 </div>
